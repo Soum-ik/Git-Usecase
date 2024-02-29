@@ -56,3 +56,5 @@ Here are some useful Git commands for version control:
 - `git stash apply`: Apply stashed changes to the working directory.
 - `git clean -n`: Dry run to show which files will be removed with `git clean -f`.
 - `git help`: Get help on any Git command.
+
+### If you find this repository helpful, please consider giving it a star.
